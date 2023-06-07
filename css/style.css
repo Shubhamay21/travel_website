@@ -1,0 +1,61 @@
+#container
+{
+	background-color:red;
+	height:100%;
+}
+*
+{
+	padding:0px;
+	margin:0;
+}
+div
+{
+	box-sizing:border-box;
+}
+body
+{
+	font-family:0;
+	font-size:o;
+}
+#wappper
+{
+	height:100%;
+}
+*
+{
+	padding:0px;
+	margin:0px;
+}
+div
+{
+	box-sizing:
+}
+.menu
+{
+	padding-top:7px;
+	padding-left:25px;
+}
+a
+{
+	text-decoration:none;
+}
+ .right-menu ul li
+ {
+	 display:inline;
+ }
+ .right-menu ul li a
+ {
+	 font-family:0;
+	 letter-spacing:0;
+	 padding:5px 5px;
+ }
+ .right-menu ul li a:hover
+ {
+	background-color:0;
+ }
+ .logo a
+ {
+	 letter-spacing:0;
+	 font-size:0;
+ }
+ 
